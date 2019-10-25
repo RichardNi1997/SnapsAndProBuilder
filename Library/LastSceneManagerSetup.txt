@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Test.unity
+- path: C:/Users/waded/Documents/GitHub/Apple Picker Prototype/Terrain-Fa19/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
